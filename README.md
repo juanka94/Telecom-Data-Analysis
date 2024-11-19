@@ -61,7 +61,7 @@ Donde:
 - **MediaOCDE** se refiere a al media del número de habitantes con acceso a Internet de los paises dentro de la OCDE de cada trimestre.
 - **Acceso actual** se refiere al número de habitantes con acceso a Internet en el trimestre actual.
 
-### 3. Migrar en un 5% anual, los accesos a Internet con tecnologia de cobre a Fibra Optica.
+### 3. Migrar en un 5% trimestral, los accesos a Internet con tecnologia de cobre a Fibra Optica.
 
 *KPI = (AccesosCobreAnterior - AccesosCobre) / (AccesosCobre + AccesosFibra) * 100*
 
